@@ -19,3 +19,9 @@ cd Metasploit-termux
 chmod +x *
 
 bash metasploit.sh
+
+
+
+
+
+ملاحظة، يجب تثبيت الأمر bundle installبأوامر metasploit لكي يعمل الأمر msfconsole. يمكن أن يكون nokogiri ضمن الحزم التي يتم تثبيتها عند التشغيل bundle installوالتي قد تكون ضرورية لتشغيل msfconsole فعال.
